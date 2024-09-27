@@ -10,6 +10,12 @@
 
 ##### Powershell
 
+**Quick Way**...
+```powershell
+.\init.ps1
+```
+
+**Slow Way**...
 1. Create virtual environment
 
 ```powershell
