@@ -28,6 +28,9 @@ python.exe -m venv venv
 pip install -r requirements.txt
 ```
 
+Alternatively, you can just use the *PowerShell* scripts provided.
+`build.ps1` requires `pyinstaller` to be installed.
+
 ### Usage
 
 1. Warp to **Palace Approach Ledge-Road** site of grace ([Map Link](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4614&lat=-184.901562&lng=154.502017&code=mapB))
@@ -39,6 +42,10 @@ pip install -r requirements.txt
 ```powershell
 python .\main.py
 ```
+
+*OR*
+
+Double-click `rune_farm.exe`
 
 3. Tab back into the game within 8 seconds.
 
